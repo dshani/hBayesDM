@@ -45,7 +45,7 @@ License: GPL-3
 LazyData: true
 NeedsCompilation: yes
 Encoding: UTF-8
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 SystemRequirements: GNU make
 Collate:
     'HDIofMCMC.R'
@@ -78,8 +78,11 @@ Collate:
     'extract_ic.R'
     'gng_m1.R'
     'gng_m2.R'
+    'gng_m2_edit.R'
     'gng_m3.R'
     'gng_m4.R'
+    'gng_m5.R'
+    'gng_m6.R'
     'hBayesDM.R'
     'igt_orl.R'
     'igt_pvl_decay.R'
